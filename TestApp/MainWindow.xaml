@@ -9,7 +9,7 @@
     <Window.Resources>
         <Style TargetType="Button">
             <Setter Property="Foreground" Value="White" />
-            <Setter Property="Background" Value="Green" />
+            <Setter Property="Background" Value="Navy" />
             <Setter Property="FontSize" Value="60" />
         </Style>
     </Window.Resources>
